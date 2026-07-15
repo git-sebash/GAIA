@@ -2,10 +2,6 @@
 
 Intelligent Academic Scheduling Manager. A web-based platform that automates university scheduling using AI: it converts course catalogs, natural-language constraints, and faculty availability into complete, conflict-free schedules in minutes rather than weeks.
 
-Developed by Sebastian Andrade Roa, Keiler García Ariza, and Julian Gutierrez Mercado — Faculty of Engineering, Universidad Libre Barranquilla.
-
----
-
 ## Table of Contents
 
 - [About this repository](#about-this-repository)
